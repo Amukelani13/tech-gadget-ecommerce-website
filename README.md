@@ -23,3 +23,6 @@ A responsive e-commerce website developed to showcase and sell technology gadget
 
 ##  Outcome
 This project demonstrates understanding of e-commerce systems, user interaction design, and basic business processes.
+
+## Author 
+Amukelani Chantal Baloyi
