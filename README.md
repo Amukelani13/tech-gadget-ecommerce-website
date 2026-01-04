@@ -1,28 +1,27 @@
-
-# Tech Gadget E-Commerce Website
+# Tech Gadget E-Commerce Information System
 
 ## Project Overview
-A responsive e-commerce website developed to showcase and sell technology gadgets. The website includes core e-commerce features such as product listings, shopping cart functionality, VAT calculation, and user authentication.
+This project is a web-based information system designed to support online retail operations.
+It allows users to browse products, view details, add items to a cart, and calculate VAT.
+
+## Features
+- Product listings
+- Shopping cart functionality
+- VAT calculation
+- Contact page
+- User-friendly navigation
+
+## Information Systems Focus
+- Supports business processes for online sales
+- Demonstrates information flow from product data to users
+- Focuses on usability and system logic
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Features
-- Product listings
-- Add-to-cart functionality
-- VAT calculation
-- Secure user sign-up and login
-- Contact page
-
-## My Role
-- Designed and developed the front-end interface
-- Implemented shopping cart logic
-- Created responsive layouts for different devices
-
-##  Outcome
-This project demonstrates understanding of e-commerce systems, user interaction design, and basic business processes.
-
-## Author 
+## Author
 Amukelani Chantal Baloyi
+
+
